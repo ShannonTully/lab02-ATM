@@ -25,7 +25,7 @@ Then select and open sln
 
 ## Visuals
 
-![picture](https://github.com/ShannonTully/lab02-ATM/blob/shannon-lab02/Capture.PNG)
+![picture](https://github.com/ShannonTully/lab02-ATM/Capture.PNG)
 
 ------------------------------
 
