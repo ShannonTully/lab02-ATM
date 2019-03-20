@@ -25,10 +25,10 @@ Then select and open sln
 
 ## Visuals
 
-
+![picture](https://github.com/ShannonTully/lab02-ATM/blob/shannon-lab02/Capture.PNG)
 
 ------------------------------
 
 ## Change Log
-
+03/20/19 - 1.0.0
 
